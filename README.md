@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kkyshimla
-- 👀 I’m interested in lowand high level language code
+- 👀 I’m interested in low and high level language code
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... with system
 - 📫 How to reach me ...go to my official mail
